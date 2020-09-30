@@ -1,1 +1,1 @@
-yo use the program just run main.py
+to use the program just run main.py
