@@ -1,1 +1,1 @@
-import face_detect
+import face_recog
