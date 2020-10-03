@@ -3,3 +3,6 @@ old_files
 trainer/trainer.yml
 .main.py.swp
 dataset/*
+
+!dataset/
+!trainer/
