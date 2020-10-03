@@ -1,8 +1,5 @@
 __pycache__
 old_files
-trainer/trainer.yml
+trainer
 .main.py.swp
-dataset/*
-
-!dataset/
-!trainer/
+dataset
